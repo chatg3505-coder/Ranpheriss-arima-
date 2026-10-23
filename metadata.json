@@ -1,0 +1,6 @@
+{
+  "name": "RANPHERIS ARIMA | Haute Parfumerie",
+  "description": "World-class luxury haute parfumerie with cinematic 3D flacon experiences, pure perfume extraits, and nocturnal fragrance narratives.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
